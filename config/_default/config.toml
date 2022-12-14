@@ -1,4 +1,4 @@
-baseurl = "https://doks.netlify.app/"
+baseurl = "https://calm-sea-09bec140f.2.azurestaticapps.net/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
