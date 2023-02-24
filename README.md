@@ -4,7 +4,7 @@ See also https://github.com/h-enk/doks/discussions/960
 
 ## Workflow
 
-`./.github/workflows/azure-static-web-apps-calm-sea-09bec140f.yml`:
+`.github/workflows/azure-static-web-apps-calm-sea-09bec140f.yml`:
 
 ```yml
 name: Azure Static Web Apps CI/CD
