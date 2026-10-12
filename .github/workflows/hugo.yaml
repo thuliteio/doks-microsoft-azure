@@ -1,4 +1,4 @@
-name: Build and deploy
+name: Azure Static Web Apps CI/CD
 env:
   # Define tool versions
   DART_SASS_VERSION: 1.105.0
